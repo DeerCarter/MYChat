@@ -1,0 +1,7 @@
+/mnt/e/newcode/MYChat/build/CMakeFiles/rebuild_cache.dir
+/mnt/e/newcode/MYChat/build/CMakeFiles/edit_cache.dir
+/mnt/e/newcode/MYChat/build/src/CMakeFiles/rebuild_cache.dir
+/mnt/e/newcode/MYChat/build/src/CMakeFiles/edit_cache.dir
+/mnt/e/newcode/MYChat/build/src/server/CMakeFiles/rebuild_cache.dir
+/mnt/e/newcode/MYChat/build/src/server/CMakeFiles/edit_cache.dir
+/mnt/e/newcode/MYChat/build/src/server/CMakeFiles/ChatServer.dir

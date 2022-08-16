@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/mnt/e/newcode/MYChat/build/src/server",
+  "command": "/usr/bin/g++   -I/mnt/e/newcode/MYChat/include -I/mnt/e/newcode/MYChat/include/server  -g -g   -o CMakeFiles/ChatServer.dir/ChatServer.cpp.o -c /mnt/e/newcode/MYChat/src/server/ChatServer.cpp",
+  "file": "/mnt/e/newcode/MYChat/src/server/ChatServer.cpp"
+},
+{
+  "directory": "/mnt/e/newcode/MYChat/build/src/server",
+  "command": "/usr/bin/g++   -I/mnt/e/newcode/MYChat/include -I/mnt/e/newcode/MYChat/include/server  -g -g   -o CMakeFiles/ChatServer.dir/main.cpp.o -c /mnt/e/newcode/MYChat/src/server/main.cpp",
+  "file": "/mnt/e/newcode/MYChat/src/server/main.cpp"
+}
+]

@@ -152,6 +152,60 @@ ChatServer.cpp.s:
 	cd /mnt/e/newcode/MYChat/build && $(MAKE) -f src/server/CMakeFiles/ChatServer.dir/build.make src/server/CMakeFiles/ChatServer.dir/ChatServer.cpp.s
 .PHONY : ChatServer.cpp.s
 
+ChatService.o: ChatService.cpp.o
+
+.PHONY : ChatService.o
+
+# target to build an object file
+ChatService.cpp.o:
+	cd /mnt/e/newcode/MYChat/build && $(MAKE) -f src/server/CMakeFiles/ChatServer.dir/build.make src/server/CMakeFiles/ChatServer.dir/ChatService.cpp.o
+.PHONY : ChatService.cpp.o
+
+ChatService.i: ChatService.cpp.i
+
+.PHONY : ChatService.i
+
+# target to preprocess a source file
+ChatService.cpp.i:
+	cd /mnt/e/newcode/MYChat/build && $(MAKE) -f src/server/CMakeFiles/ChatServer.dir/build.make src/server/CMakeFiles/ChatServer.dir/ChatService.cpp.i
+.PHONY : ChatService.cpp.i
+
+ChatService.s: ChatService.cpp.s
+
+.PHONY : ChatService.s
+
+# target to generate assembly for a file
+ChatService.cpp.s:
+	cd /mnt/e/newcode/MYChat/build && $(MAKE) -f src/server/CMakeFiles/ChatServer.dir/build.make src/server/CMakeFiles/ChatServer.dir/ChatService.cpp.s
+.PHONY : ChatService.cpp.s
+
+db/DB.o: db/DB.cpp.o
+
+.PHONY : db/DB.o
+
+# target to build an object file
+db/DB.cpp.o:
+	cd /mnt/e/newcode/MYChat/build && $(MAKE) -f src/server/CMakeFiles/ChatServer.dir/build.make src/server/CMakeFiles/ChatServer.dir/db/DB.cpp.o
+.PHONY : db/DB.cpp.o
+
+db/DB.i: db/DB.cpp.i
+
+.PHONY : db/DB.i
+
+# target to preprocess a source file
+db/DB.cpp.i:
+	cd /mnt/e/newcode/MYChat/build && $(MAKE) -f src/server/CMakeFiles/ChatServer.dir/build.make src/server/CMakeFiles/ChatServer.dir/db/DB.cpp.i
+.PHONY : db/DB.cpp.i
+
+db/DB.s: db/DB.cpp.s
+
+.PHONY : db/DB.s
+
+# target to generate assembly for a file
+db/DB.cpp.s:
+	cd /mnt/e/newcode/MYChat/build && $(MAKE) -f src/server/CMakeFiles/ChatServer.dir/build.make src/server/CMakeFiles/ChatServer.dir/db/DB.cpp.s
+.PHONY : db/DB.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -191,6 +245,12 @@ help:
 	@echo "... ChatServer.o"
 	@echo "... ChatServer.i"
 	@echo "... ChatServer.s"
+	@echo "... ChatService.o"
+	@echo "... ChatService.i"
+	@echo "... ChatService.s"
+	@echo "... db/DB.o"
+	@echo "... db/DB.i"
+	@echo "... db/DB.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

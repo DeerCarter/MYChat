@@ -6,5 +6,5 @@ CXX_FLAGS = -g -g
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/mnt/e/newcode/MYChat/include -I/mnt/e/newcode/MYChat/include/server 
+CXX_INCLUDES = -I/mnt/e/newcode/MYChat/include -I/mnt/e/newcode/MYChat/include/server -I/mnt/e/newcode/MYChat/include/server/db -I/mnt/e/newcode/MYChat/thirdparty 
 

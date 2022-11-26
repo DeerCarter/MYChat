@@ -3,7 +3,17 @@
 
 src/server/CMakeFiles/ChatServer.dir/ChatServer.cpp.o
  ../include/server/ChatServer.hpp
+ ../include/server/ChatService.hpp
+ ../thirdparty/json.hpp
  /mnt/e/newcode/MYChat/src/server/ChatServer.cpp
+src/server/CMakeFiles/ChatServer.dir/ChatService.cpp.o
+ ../include/Public.hpp
+ ../include/server/ChatService.hpp
+ ../thirdparty/json.hpp
+ /mnt/e/newcode/MYChat/src/server/ChatService.cpp
+src/server/CMakeFiles/ChatServer.dir/db/DB.cpp.o
+ ../include/server/db/DB.h
+ /mnt/e/newcode/MYChat/src/server/db/DB.cpp
 src/server/CMakeFiles/ChatServer.dir/main.cpp.o
  ../include/server/ChatServer.hpp
  /mnt/e/newcode/MYChat/src/server/main.cpp

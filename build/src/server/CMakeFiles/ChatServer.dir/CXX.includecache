@@ -6,21 +6,15 @@
 
 #IncludeRegexTransform: 
 
-../include/server/ChatServer.hpp
-muduo/net/TcpServer.h
+../include/server/db/DB.h
+mysql/mysql.h
 -
-muduo/net/EventLoop.h
--
-
-/mnt/e/newcode/MYChat/src/server/ChatServer.cpp
-ChatServer.hpp
-/mnt/e/newcode/MYChat/src/server/ChatServer.hpp
-functional
+string
 -
 
-/mnt/e/newcode/MYChat/src/server/main.cpp
-iostream
+/mnt/e/newcode/MYChat/src/server/db/DB.cpp
+DB.h
+/mnt/e/newcode/MYChat/src/server/db/DB.h
+muduo/base/Logging.h
 -
-ChatServer.hpp
-/mnt/e/newcode/MYChat/src/server/ChatServer.hpp
 
